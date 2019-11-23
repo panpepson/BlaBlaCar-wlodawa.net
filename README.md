@@ -6,4 +6,4 @@ A simple search engine for journeys from the blablacar website - php + vue.js
 https://bb.wlodawa.net
 
 
-![](https://bb.wlodawa.net/img/bb-wlodawa-02.jpg )
+![wlodawa](https://bb.wlodawa.net/img/bb-wlodawa-02.jpg){:height="50%" width="50%"}
